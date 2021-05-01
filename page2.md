@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE TITLE"
-permalink: testing123
+title: "Testing 123"
+permalink: test/testing123
 
 Testing
 123
